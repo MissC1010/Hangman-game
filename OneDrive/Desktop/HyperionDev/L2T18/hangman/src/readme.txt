@@ -1,0 +1,1 @@
+Guess a letter which you think is part of the word. if the letter guessed is correct it will show on the word. if it is incorrect you will have to guess again untill you get the correct word. once you are out of chances to guess, your man will be hanged and the game will end. to install the game download relevant files and type npm install. then type npm start.
